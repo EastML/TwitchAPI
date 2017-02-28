@@ -1,0 +1,67 @@
+body {
+  background-color: #222222;
+}
+
+#holderBox {
+  background-color: #BBBBBB;
+  color: #222222;
+  padding: 2%;
+  margin: 2%;
+}
+
+h3 {
+  padding-bottom: 2%;
+}
+
+button {
+  margin-left: 1%;
+}
+
+#search {
+  padding-bottom: 1%;
+}
+
+#twitchOutput {
+  color: #222222;
+}
+
+a {
+  color: #222222;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.twitchCheck {
+  border: 1px solid #BBBBBB;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.close {
+  background-color: #DDDDDD;
+}
+
+.offline {
+  background-color: #DDDDDD;
+  font-style: italic;
+  padding: 2%;
+}
+
+.online {
+  background-color: #5cb85c;
+  font-weight: bold;
+  padding: 2% 2% 1% 2%;
+}
+
+.online:hover {
+  background-color: #428bca;
+  color: white;
+}
+
+span {
+  font-weight: normal;
+  font-style: italic;
+}
+
